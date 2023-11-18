@@ -41,13 +41,13 @@ body, html {
 }
 
 #riptide-card {
-    margin-bottom: 20px; /* Spacing between the top card and the row */
+    margin-bottom: 20px;
 }
 
 .row {
     display: flex;
     justify-content: center;
-    gap: 20px; /* Adjust this value for spacing between the bottom cards */
+    gap: 20px;
 }
 
 .contact-card {
@@ -56,7 +56,6 @@ body, html {
     padding: 20px;
     text-align: center;
     margin: 0 20px;
-    /* Adjust the width as needed */
 }
 
 .profile-picture {
